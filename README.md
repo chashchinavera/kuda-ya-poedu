@@ -10,4 +10,4 @@
 * Object-fit
 
 **GitHub Pages**
-* [Ссылка](https://github.com/chashchinavera/kuda-ya-poedu)
+* [Ссылка](https://chashchinavera.github.io/kuda-ya-poedu/)
