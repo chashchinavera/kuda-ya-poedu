@@ -1,0 +1,15 @@
+.place__image {
+    box-sizing: border-box;
+    width: 100%;
+    object-fit: cover;
+    height: calc(50vw/1.2);
+    max-height: 533px;
+}
+@media screen and (max-width: 550px) {
+    .place__image {
+        min-height: 280px;
+    }
+    .place__image:nth-of-type(3){
+        order: 5;
+    }
+}

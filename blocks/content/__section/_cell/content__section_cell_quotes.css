@@ -1,0 +1,8 @@
+.content__section_cell_quotes {
+    padding: 0 70px;
+}
+@media screen and (max-width: 550px) {
+    .content__section_cell_quotes {
+        padding: 0 20px; 
+    }
+}

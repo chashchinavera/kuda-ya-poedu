@@ -1,5 +1,5 @@
 .footer {
-    min-height: 620px;
+    min-height: 350px;
     background-color: #FECDA7;
     width: 100%;
     display: flex;
@@ -10,12 +10,12 @@
 
 @media screen and (max-width:1024px) {
     .footer {
-        min-height: 480px;
+        min-height: 280px;
     }
 }
 
 @media screen and (max-width:768px) {
     .footer {
-        min-height: 315px;
+        min-height: 215px;
     }
 }

@@ -1,0 +1,12 @@
+    .intro__caption {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: -1px;
+    text-transform: uppercase; 
+    color: #fecda7;
+    display: flex;
+    margin: 0;
+    max-width: 95px;
+}

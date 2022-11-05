@@ -1,0 +1,13 @@
+.content__section_cell_intro {
+    padding: 0 0 0 70px;
+}
+@media screen and (max-width:890px) {
+    .content__section_cell_intro {
+        padding: 0 0 0 40px;
+    }
+}
+@media screen and (max-width:550px) {
+    .content__section_cell_intro {
+        padding: 0 20px;
+    }
+}

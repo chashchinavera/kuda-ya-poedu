@@ -1,0 +1,9 @@
+.intro {
+    display: flex;
+    align-items: center;
+}
+@media screen and (max-width: 550px) {
+    .intro {
+    flex-direction: column;
+    }
+    }

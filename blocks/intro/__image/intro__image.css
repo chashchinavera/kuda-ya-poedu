@@ -1,0 +1,16 @@
+.intro__image {
+max-width: 356px;
+max-height: 356px;
+box-sizing: border-box;
+width: 100%;
+object-position: center;
+object-fit: cover;
+margin: 0 auto;
+}
+
+@media screen and (max-width:890px) {
+    .intro__image {
+        max-width: 270px;
+        max-height: 270px;
+    }
+    }
