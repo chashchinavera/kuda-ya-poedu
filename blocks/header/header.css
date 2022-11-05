@@ -3,27 +3,14 @@
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
-    align-items: center;
-    min-height: 110px;
+    align-items: flex-end;
+    min-height: 69px;
     width: 100%;
-    max-width: 1184px;
     margin: 0 auto;
 }
 
-@media screen and (max-width:1024px) {
-.header {
-    max-width: 928px;
-}
-}
-
-@media screen and (max-width:768px) {
-.header {
-    max-width: 720px;
-}
-}
-
-@media screen and (max-width:320px) {
-.header {
-    max-height: 70px;
-}
-}
+@media screen and (max-width:550px) {
+    .header {
+        align-items: center;
+    }
+    }
