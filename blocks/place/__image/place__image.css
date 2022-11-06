@@ -5,6 +5,7 @@
     height: calc(50vw/1.2);
     max-height: 533px;
 }
+
 @media screen and (max-width: 550px) {
     .place__image {
         min-height: 280px;
