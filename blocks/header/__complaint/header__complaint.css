@@ -12,6 +12,12 @@
     transform: scale(1.2);
 }
 
+@media screen and (max-width:890px) {
+    .header__complaint {
+        margin-right: 40px;
+    }
+}
+
 @media screen and (max-width:550px) {
     .header__complaint {
         margin-right: 10px;

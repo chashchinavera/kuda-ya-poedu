@@ -5,6 +5,12 @@
     margin-left: 70px;
 }
 
+@media screen and (max-width:890px) {
+    .header__links {
+        margin-left: 40px;
+    }
+}
+
 @media screen and (max-width:550px) {
     .header__links {
         margin-left: 10px;
