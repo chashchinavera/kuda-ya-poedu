@@ -32,16 +32,16 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__title/place__title.css);
-@import url(../blocks/place/__subtitle/place__subtitle.css);
 @import url(../blocks/place/__text/place__text.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
 /* quotes */
 @import url(../blocks/quotes/quotes.css);
 @import url(../blocks/quotes/__caption/quotes__caption.css);
 @import url(../blocks/quotes/__question/quotes__question.css);
 @import url(../blocks/quote/quote.css);
-@import url(../blocks/quote/__title/quote__title.css);
-@import url(../blocks/quote/__subtitle/quote__subtitle.css);
+@import url(../blocks/quote/__author/quote__author.css);
+@import url(../blocks/quote/__text/quote__text.css);
 @import url(../blocks/quote/__card/quote__card.css);
 
 /* footer */
