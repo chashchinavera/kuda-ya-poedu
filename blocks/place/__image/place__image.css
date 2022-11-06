@@ -4,6 +4,11 @@
     object-fit: cover;
     height: calc(50vw/1.2);
     max-height: 533px;
+    transition: 2s;
+}
+
+.place__image:hover {
+    transform: scale(.8);
 }
 
 @media screen and (max-width: 550px) {
